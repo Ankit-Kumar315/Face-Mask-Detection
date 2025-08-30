@@ -1,0 +1,4 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+Ankit_Kumar_Model.h5 filter=lfs diff=lfs merge=lfs -text
+Ankit_Kumar_MOdel.h5 filter=lfs diff=lfs merge=lfs -text
+Ankit_Kumar_model.h5 filter=lfs diff=lfs merge=lfs -text
